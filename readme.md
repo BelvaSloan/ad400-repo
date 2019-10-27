@@ -10,10 +10,12 @@ ad400-repo
   4. approve own pull request
 
 ### Make a merge request for another repo
-  1. Clone your classmate's repo
-  2. Checkout a feature branch (not master)
+  1. clone a classmate's repo
+  2. checkout a feature branch (not master)
   3. make change, commit, repeat 2x
   4. push feature to remote
-  5. submit pull request 
+  5. submit pull request
 
-
+### Approve another student's pull request
+  1. Either from local or github, approve and merge a pull request
+  2. If merge conflicts exist you may deny the request
