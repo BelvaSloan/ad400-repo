@@ -22,4 +22,4 @@ ad400-repo
 
 ### Grading
 
-*Submit a link to the repo created in github and a link to the merge request you submitted to another student's repo.
+*Submit a link to the repo created in github and a link to the merge request you submitted to another student's repo.*
