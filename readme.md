@@ -19,3 +19,7 @@ ad400-repo
 ### Approve another student's pull request
   1. Either from local or github, approve and merge a pull request
   2. If merge conflicts exist you may deny the request
+
+### Grading
+
+*Submit a link to the repo created in github and a link to the merge request you submitted to another student's repo.
