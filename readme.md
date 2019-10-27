@@ -17,3 +17,5 @@ ad400-repo
   5. submit pull request
 
 ### Approve another student's pull request
+  1. Either from local or github, approve and merge a pull request
+  2. If merge conflicts exist you may deny the request
